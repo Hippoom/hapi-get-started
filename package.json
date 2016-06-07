@@ -1,0 +1,25 @@
+{
+  "name": "hapi-get-started",
+  "version": "0.0.1",
+  "description": "hello world for nodejs and hapi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hippoom/hapi-get-started.git"
+  },
+  "keywords": [
+    "hapi"
+  ],
+  "author": "hippoom",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Hippoom/hapi-get-started/issues"
+  },
+  "homepage": "https://github.com/Hippoom/hapi-get-started#readme",
+  "dependencies": {
+    "hapi": "^13.4.1"
+  }
+}
